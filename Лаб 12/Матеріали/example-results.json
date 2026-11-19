@@ -1,0 +1,27 @@
+{
+  "variants": [
+    {
+      "variant": "A",
+      "impressions": 1500,
+      "ctr": 0.016,
+      "er": 0.04,
+      "cpc": 9.0
+    },
+    {
+      "variant": "B",
+      "impressions": 1500,
+      "ctr": 0.026,
+      "er": 0.05040650406504065,
+      "cpc": 6.0
+    }
+  ],
+  "comparison": {
+    "ctr_delta_pp": 0.9999999999999999,
+    "relative_change": 0.6249999999999999,
+    "approximate_95pct_ci_pp": [
+      -0.02556270343000832,
+      2.0255627034300083
+    ],
+    "assumption": "Independent impressions; example data only"
+  }
+}
